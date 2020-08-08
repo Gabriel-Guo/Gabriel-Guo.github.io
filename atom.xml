@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://gabrielguo.github.io/"/>
-  <updated>2020-08-07T16:25:46.923Z</updated>
+  <updated>2020-08-08T06:17:21.449Z</updated>
   <id>https://gabrielguo.github.io/</id>
   
   <author>
@@ -21,17 +21,20 @@
     <link href="https://gabrielguo.github.io/2020/08/07/a9d34d39.html"/>
     <id>https://gabrielguo.github.io/2020/08/07/a9d34d39.html</id>
     <published>2020-08-06T16:24:56.000Z</published>
-    <updated>2020-08-07T16:25:46.923Z</updated>
+    <updated>2020-08-08T06:17:21.449Z</updated>
     
-    <content type="html"><![CDATA[<blockquote><p>凡事预则立不预则废。故持之以恒，而得之有所为！</p></blockquote><p>希望这是一个美好的开端！加油！　　</p><p>　　国内的反坦克导弹研制虽然起步相对比较晚，但发展速度很快。在仿造了一代红箭-73反坦克导弹后，就迅速走上了自主研发的道路。从红箭-8开始，中国的反坦克导弹就自成一体，具备鲜明的个性。但是直到21世纪来临之前，我们在一个重要的领域还是空白，那就是空对地反坦克导弹。虽然在红箭-8基础上改装出了一种配用于直-9、直-11等型号的空射型号，但红箭-8作为一种线导导弹，从直升机上发射还是不那么好用。</p><a id="more"></a><p>　　随着直-10、直-19及其配套的蓝箭-7（出口编号）等激光半主动制导反坦克导弹投入使用，国内在这个领域的短板终于补上了。但是在同一个时期，美军已经在研制新一代的“联合空对地导弹”，用于替代海尔法、小牛空对地导弹。主要设计基础，还是海尔法。从1991年的海湾战争开始，海尔法表现出了优异的性能，打击对象从坦克装甲车辆扩展到各种地面目标，甚至开发出了用刀片作为战斗部的“忍者”导弹。海尔法能够搭载于直升机、无人机等平台，还衍生出了能搭载于固定翼喷气式攻击机的“硫磺石”导弹，射程远远超过了早期海尔法的8千米。这就意味着，在海尔法基础上研制一种三军通用的多用途空地导弹，是完全可以做到的。</p><p>　　这就是由洛马公司研制的AGM-169导弹，它采用半主动激光、毫米波、红外成像三模复合制导。采用后两种模式可以具备发射后不管的能力。据说它的最大射程可以达到28千米。导弹研制于2002年启动，洛马在2004年夺标成功。但是很快，美国陆军的军费就不够用了，旷日持久的伊拉克战争占用了大量陆军研发和采购费用。2005~2006年，AGM-169的经费被大量削减。美国国会认为，海尔法的价值还没有耗尽，通过改进还是可以满足未来一段时间空地导弹需求的，而且比研制新导弹要便宜得多。2007年5月，美国陆军正式决定，取消AGM-169，启动了新项目“联合空对地导弹”，也就是AGM-179。 </p>]]></content>
+    <content type="html"><![CDATA[<blockquote><p>凡事预则立不预则废。故持之以恒，而得之有所为！</p></blockquote><p>希望这是一个美好的开端！加油！　</p>]]></content>
     
     <summary type="html">
     
-      &lt;blockquote&gt;
+      
+      
+        &lt;blockquote&gt;
 &lt;p&gt;凡事预则立不预则废。故持之以恒，而得之有所为！&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;希望这是一个美好的开端！加油！　　&lt;/p&gt;
-&lt;p&gt;　　国内的反坦克导弹研制虽然起步相对比较晚，但发展速度很快。在仿造了一代红箭-73反坦克导弹后，就迅速走上了自主研发的道路。从红箭-8开始，中国的反坦克导弹就自成一体，具备鲜明的个性。但是直到21世纪来临之前，我们在一个重要的领域还是空白，那就是空对地反坦克导弹。虽然在红箭-8基础上改装出了一种配用于直-9、直-11等型号的空射型号，但红箭-8作为一种线导导弹，从直升机上发射还是不那么好用。&lt;/p&gt;
+&lt;p&gt;希望这是一个美好的开端！加油！　&lt;/p&gt;
+
+      
     
     </summary>
     
@@ -45,19 +48,16 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://gabrielguo.github.io/2020/08/04/4a17b156.html"/>
-    <id>https://gabrielguo.github.io/2020/08/04/4a17b156.html</id>
-    <published>2020-08-04T10:12:02.095Z</published>
-    <updated>2020-08-07T16:25:46.926Z</updated>
+    <link href="https://gabrielguo.github.io/2020/08/01/4a17b156.html"/>
+    <id>https://gabrielguo.github.io/2020/08/01/4a17b156.html</id>
+    <published>2020-08-01T06:18:32.000Z</published>
+    <updated>2020-08-08T06:22:18.854Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><a id="more"></a><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
     
     <summary type="html">
     
-      
-      
-        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for
-      
+      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
     
     </summary>
     
